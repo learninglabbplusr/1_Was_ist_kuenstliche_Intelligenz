@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,120%20--%3E%2000:00:01,920%0D%0ADer%20gro%C3%9Fe%20Unterschied.%0D%0A%0D%0A2%0D%0A00:00:01,920%20--%3E%2000:00:04,920%0D%0AKI%20Systeme%20lernen%20und%20passen%20sich%20an!%0D%0A%0D%0A3%0D%0A00:00:04,920%20--%3E%2000:00:06,400%0D%0ADas%20macht%20sie%20so%20m%C3%A4chtig.%0D%0A"}')

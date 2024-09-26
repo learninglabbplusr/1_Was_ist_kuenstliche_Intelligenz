@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1,"text":"Damit Sie wissen, was in den jeweiligen Momenten zu tun ist, werde ich Sie stets begleiten und einweisen."},{"start":6663,"text":"Hilfestellung biete ich auch."},{"start":8871,"text":"Auf jeder Interaktionsfolie finden Sie eine Schaltfläche mit einem Fragezeichen."},{"start":14042,"text":"Klicken Sie diese, so eile ich zur Hilfe."},{"start":17047,"text":"Sollten Sie trotz meiner exquisiten Vorbereitung, ein technisches Problem haben,"},{"start":22011,"text":"wenden Sie sich per Mail an meine Assistenz:"},{"start":25295,"text":"B+R- Bildung und Reisen."},{"start":28207,"text":"Die exzellenten E-Learning Spezialisten von b+r"},{"start":32009,"text":"begeben sich dann auf Fehlersuche."},{"start":35168,"text":"Übrigens: Auch positives Feedback ist in diesem Mailpostfach willkommen! :)"}]}]};
+    window.globalLoadJsAsset('story_content/5oQrrDm3owD_transcripts.js', JSON.stringify(data));
+})();

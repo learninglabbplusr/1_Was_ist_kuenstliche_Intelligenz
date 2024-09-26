@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1,"text":"Gute Wahl!"},{"start":1451,"text":"Die technische Definition lautet wie folgt:"},{"start":4513,"text":"Künstliche Intelligenz bezeichnet ein Computersystem, das in der Lage ist, "},{"start":9255,"text":"Aufgaben zu erledigen, die normalerweise menschliche Intelligenz erfordern. "},{"start":14532,"text":"Dazu gehören, das Erkennen von Mustern,"},{"start":17240,"text":"das Verstehen von Sprache und das Treffen von Entscheidungen."},{"start":21454,"text":"Sie können sich Künstliche Intelligenz wie einen cleveren "},{"start":24501,"text":"digitalen Helfer vorstellen, der diese Aufgaben übernimmt."}]}]};
+    window.globalLoadJsAsset('story_content/6OmTrtAtm3m_transcripts.js', JSON.stringify(data));
+})();

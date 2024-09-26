@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":126,"text":"In der Bildung spielt Künstliche Intelligenz eine immer größere Rolle."},{"start":4292,"text":"Haben Kinder in Ihrem Umfeld auch schon Hausaufgaben von mir erledigen lassen? "},{"start":9265,"text":"Bei meinen zahlreichen Einsätzen glaube ich fast: Ja. "},{"start":13124,"text":"Stellen Sie sich vor, Sie hätten immer einen persönlichen Lehrer an Ihrer Seite – "},{"start":17610,"text":"immer bereit, Sie zu unterstützen, wann immer Sie ihn brauchen."},{"start":21422,"text":"Genau das kann ein KI-gestützter Lernassistent sein."},{"start":25493,"text":"Dazu fällt mir ein gutes Beispiel ein. Film ab!"}]}]};
+    window.globalLoadJsAsset('story_content/6T1C5GEMnNo_transcripts.js', JSON.stringify(data));
+})();

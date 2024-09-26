@@ -1,0 +1,1 @@
+window.globalProvideSvgData('svg-5XF4ZqKJQ4Z', "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"41\" height=\"41\" viewBox=\"0 0 41 41\" id=\"svg-5XF4ZqKJQ4Z\"><g pointer-events=\"visiblePainted\" data-accepts=\"events\"><circle id=\"Ellipse_1545-6CHFee0ClON\" data-name=\"Ellipse 1545\" cx=\"20.5\" cy=\"20.5\" r=\"20.5\" fill=\"#002163\" /></g></svg>");
